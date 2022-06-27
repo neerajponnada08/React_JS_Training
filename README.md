@@ -1,2 +1,2 @@
 # React_JS_Training
-Training on ReactJS
+This repo is created for the Training Purpose
